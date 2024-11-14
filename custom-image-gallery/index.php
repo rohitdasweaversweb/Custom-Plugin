@@ -1,4 +1,0 @@
-<?php
-/*
-image gallery
-*/
